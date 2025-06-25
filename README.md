@@ -46,16 +46,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-6-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-316-blue?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/PRs-1-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Issues-0-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-✔️-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  👉 <a href="https://github.com/wikukarno">See full contribution graph on GitHub</a>
-</p>
