@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.wikukarno.com">🌐 Portfolio</a> •
   <a href="https://buanacoding.com">📝 Blog</a> •
-  <a href="mailto:hi@wikukarno.com">📧 Contact</a>
+  <a href="mailto:hi@wikukarno.dev">📧 Contact</a>
 </p>
 
 ---
