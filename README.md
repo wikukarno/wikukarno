@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://wikukarno.dev">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/wikukarno/">💼 LinkedIn</a> •
   <a href="https://buanacoding.com">📝 Blog</a> •
   <a href="mailto:hi@wikukarno.dev">📧 Contact</a>
 </p>
@@ -12,7 +13,7 @@
 ### 🚀 About Me
 
 - 🔧 Software Engineer with 4+ years building scalable B2B platforms and consumer apps serving **1.6M+ users**
-- 🚀 Creator of **[budgetku.com](https://github.com/wikukarno/budgetku.com)** and **[buanacoding.com](https://github.com/wikukarno/buanacoding)**
+- 🚀 Creator of **[budgetku.com](https://github.com/wikukarno/budgetku.com)** and **[buanacoding.com](https://buanacoding.com)**
 - 💼 **Open to remote opportunities** — freelance or full-time
 
 ---
@@ -51,3 +52,12 @@
 - ⚙️ **Tools**: Git, Docker, DigitalOcean, CI/CD, REST API, Figma
 
 ---
+
+### 📌 Featured Projects
+
+- **[crowdfunding](https://github.com/wikukarno/crowdfunding)** — Crowdfunding REST API in Go (Gin, GORM, PostgreSQL) with JWT auth, google/wire DI, Cloudflare R2 uploads, Midtrans payments, Swagger docs, and Docker.
+- **[jupyter-kesehatan](https://github.com/wikukarno/jupyter-kesehatan)** — Exploratory analysis of patient vital-sign data with pandas and Plotly, from data cleaning to findings in a reproducible notebook.
+
+---
+
+💬 **Open to remote roles, full-time or contract.** Reach me on [LinkedIn](https://www.linkedin.com/in/wikukarno/) or at [hi@wikukarno.dev](mailto:hi@wikukarno.dev).
